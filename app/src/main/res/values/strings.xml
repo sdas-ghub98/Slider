@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Slider</string>
+
+    <!-- Slide 1 Introduction to app -->
+    <string name="slide_1_title">NIIT University</string>
+    <string name="slide_1_desc"> The University of the Future nestled at the foothills of Aravallis of Rajasthan. The campus is 120 KMs from the National Capital and is the most environment-friendly campus in the country.</string>
+
+    <string name="slide_2_title">Information about NU</string>
+    <string name="slide_2_desc">Get information about University principles and teaching methodology from the first three tabs</string>
+
+    <string name="slide_3_title">FAQ</string>
+    <string name="slide_3_desc">Get all your doubts cleared regarding admissions, academics and campus life </string>
+
+    <string name="slide_4_title">Ask A Question</string>
+    <string name="slide_4_desc">Still have a doubt? Feel free to write to us</string>
+
+    <string name="my_preference">com.abc.com.MyPref</string>
+    <string name="my_preference_key">com.abc.com.MyPrefKey</string>
+
+</resources>
